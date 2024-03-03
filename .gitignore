@@ -1,0 +1,18 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Tic-Tac-Toe Online/*
+!/Tic-Tac-Toe Online/task/
+/Tic-Tac-Toe Online/task/*
+!/Tic-Tac-Toe Online/task/src
+!/Tic-Tac-Toe Online/task/build.gradle
+!/Tic-Tac-Toe Online/task/counter.txt
